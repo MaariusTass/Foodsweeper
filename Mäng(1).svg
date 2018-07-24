@@ -36,6 +36,81 @@
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m660.8425 171.01312l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path fill="#0000ff" d="m552.9055 437.24933l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m552.9055 437.24933l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+<<<<<<< HEAD
+=======
+		<path fill="#ff0000" d="m61.70341 53.272964l59.05512 0l0 36.220474l-59.05512 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m61.70341 53.272964l59.05512 0l0 36.220474l-59.05512 0z" fill-rule="evenodd" />
+		<path fill="#ffff00" d="m95.62467 587.81366l23.90551 0l0 22.48816l-23.90551 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m95.62467 587.81366l23.90551 0l0 22.48816l-23.90551 0z" fill-rule="evenodd" />
+		<path fill="#ff0000" d="m251.41208 159.61154l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m251.41208 159.61154l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ffff00" d="m708.4173 277.6378l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m708.4173 277.6378l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#0000ff" d="m600.27295 60.139107l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m600.27295 60.139107l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#000000" d="m835.2756 71.391075l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m835.2756 71.391075l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ff0000" d="m441.7979 565.32544l23.905487 0l0 22.48822l-23.905487 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m441.7979 565.32544l23.905487 0l0 22.48822l-23.905487 0z" fill-rule="evenodd" />
+		<path fill="#0000ff" d="m835.2756 561.2336l23.905518 0l0 22.48822l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m835.2756 561.2336l23.905518 0l0 22.48822l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ffff00" d="m279.71915 66.91076l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m279.71915 66.91076l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#0000ff" d="m361.28085 171.01312l23.905487 0l0 22.48819l-23.905487 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m361.28085 171.01312l23.905487 0l0 22.48819l-23.905487 0z" fill-rule="evenodd" />
+		<path fill="#ff0000" d="m52.435696 348.75592l23.905514 0l0 22.48816l-23.905514 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m52.435696 348.75592l23.905514 0l0 22.48816l-23.905514 0z" fill-rule="evenodd" />
+		<path fill="#0000ff" d="m303.62466 480.12598l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m303.62466 480.12598l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ff00ff" d="m378.53018 300.12598l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m378.53018 300.12598l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ff9900" d="m52.435696 196.16536l23.905514 0l0 22.48819l-23.905514 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m52.435696 196.16536l23.905514 0l0 22.48819l-23.905514 0z" fill-rule="evenodd" />
+		<path fill="#cfe2f3" d="m660.8425 171.01312l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m660.8425 171.01312l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#0000ff" d="m552.9055 437.24933l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m552.9055 437.24933l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ff0000" d="m771.21783 385.5013l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m771.21783 385.5013l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#ffff00" d="m646.874 565.32544l23.905518 0l0 22.48822l-23.905518 0z" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m646.874 565.32544l23.905518 0l0 22.48822l-23.905518 0z" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m91.23097 89.49344l160.18898 81.354324" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m91.23097 89.49344l160.18898 81.354324" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m263.36484 182.09973l127.1181 118.01575" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m263.36484 182.09973l127.1181 118.01575" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m120.75853 71.3832l158.96062 6.771652" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m120.75853 71.3832l158.96062 6.771652" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m275.3176 170.85564l85.95276 11.401581" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m275.3176 170.85564l85.95276 11.401581" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m303.62466 78.154854l357.22836 104.09449" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m303.62466 78.154854l357.22836 104.09449" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m263.36484 182.09973l-187.02362 25.322845" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m263.36484 182.09973l-187.02362 25.322845" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m672.7953 171.01312l-60.566956 -88.37795" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m672.7953 171.01312l-60.566956 -88.37795" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m64.38845 218.65355l0 130.11024" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m64.38845 218.65355l0 130.11024" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m684.74805 182.25722l162.48816 -88.37795" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m684.74805 182.25722l162.48816 -88.37795" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m64.38845 371.24408l43.181107 216.56696" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m64.38845 371.24408l43.181107 216.56696" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m835.2756 82.63517l-270.42517 354.61417" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m835.2756 82.63517l-270.42517 354.61417" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m107.57743 587.81366l196.06299 -96.44095" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m107.57743 587.81366l196.06299 -96.44095" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m732.3228 288.8819l50.834656 96.62991" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m732.3228 288.8819l50.834656 96.62991" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m771.21783 396.7454l-112.37793 168.56693" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m771.21783 396.7454l-112.37793 168.56693" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m552.9055 448.49344l-150.4567 -137.13385" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m552.9055 448.49344l-150.4567 -137.13385" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m315.57742 480.12598l62.960632 -168.75589" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m315.57742 480.12598l62.960632 -168.75589" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m564.8583 437.24933l-179.68506 -254.99211" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m564.8583 437.24933l-179.68506 -254.99211" fill-rule="evenodd" />
+		<path fill="#000000" fill-opacity="0.0" d="m385.18634 182.25722l215.08661 -110.86614" fill-rule="evenodd" />
+		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m
+>>>>>>> branch 'master' of https://github.com/MaariusTass/Foodsweeper.git
 		<path fill="#ff0000" d="m771.21783 385.5013l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m771.21783 385.5013l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path fill="#ffff00" d="m646.874 565.32544l23.905518 0l0 22.48822l-23.905518 0z" fill-rule="evenodd" />
