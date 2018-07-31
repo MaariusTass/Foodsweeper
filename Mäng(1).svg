@@ -1,4 +1,5 @@
-<svg version="1.1" viewBox="0.0 0.0 960.0 720.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" width="900" viewBox="0.0 0.0 960.0 720.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
 	<clipPath id="p.0">
 		<path d="m0 0l960.0 0l0 720.0l-960.0 0l0 -720.0z" clip-rule="nonzero" />
 	</clipPath>
@@ -36,8 +37,7 @@
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m660.8425 171.01312l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path fill="#0000ff" d="m552.9055 437.24933l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m552.9055 437.24933l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
-<<<<<<< HEAD
-=======
+
 		<path fill="#ff0000" d="m61.70341 53.272964l59.05512 0l0 36.220474l-59.05512 0z" fill-rule="evenodd" />
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m61.70341 53.272964l59.05512 0l0 36.220474l-59.05512 0z" fill-rule="evenodd" />
 		<path fill="#ffff00" d="m95.62467 587.81366l23.90551 0l0 22.48816l-23.90551 0z" fill-rule="evenodd" />
@@ -109,8 +109,6 @@
 		<path fill="#000000" fill-opacity="0.0" d="m564.8583 437.24933l-179.68506 -254.99211" fill-rule="evenodd" />
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m564.8583 437.24933l-179.68506 -254.99211" fill-rule="evenodd" />
 		<path fill="#000000" fill-opacity="0.0" d="m385.18634 182.25722l215.08661 -110.86614" fill-rule="evenodd" />
-		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m
->>>>>>> branch 'master' of https://github.com/MaariusTass/Foodsweeper.git
 		<path fill="#ff0000" d="m771.21783 385.5013l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path stroke="#000000" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m771.21783 385.5013l23.905518 0l0 22.48819l-23.905518 0z" fill-rule="evenodd" />
 		<path fill="#ffff00" d="m646.874 565.32544l23.905518 0l0 22.48822l-23.905518 0z" fill-rule="evenodd" />

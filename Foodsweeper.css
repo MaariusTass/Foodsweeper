@@ -1,5 +1,6 @@
 @charset "UTF-8";
 body
 {
+	background-repeat:no-repeat;
 	background-image:url("Mäng(1).svg");
 }
